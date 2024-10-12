@@ -14,6 +14,9 @@ main .hero .hero-title div h2 {
 main .hero .hero-image img {
   width: 70vw;
 }
+main .product .product-section .product-card .image-product img {
+  height: 45vh;
+}
 main .catalogue .catalogue-image img {
   width: 70vw;
 }

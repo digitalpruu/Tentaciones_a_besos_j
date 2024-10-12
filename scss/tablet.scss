@@ -36,7 +36,18 @@ main{
             }
         }
     }
-
+    .product{
+        .product-section{
+            .product-card{
+                .image-product{
+                    img{
+                        height: 45vh;
+                    }
+                }
+            }
+        }
+    }
+    
     .catalogue{
         .catalogue-image{
             img{

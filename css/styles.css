@@ -106,6 +106,7 @@ main .product .product-section .product-card .image-product {
 main .product .product-section .product-card .image-product img {
   padding: 15px 5px;
   width: 35vw;
+  height: 33vh;
   border-radius: 16px;
 }
 main .product .product-section .product-card h3 {

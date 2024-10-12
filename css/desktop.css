@@ -45,7 +45,8 @@ main .product .product-section .product-card {
   width: 30vw;
 }
 main .product .product-section .product-card .image-product img {
-  width: 25vw;
+  width: 20vw;
+  height: 50vh;
 }
 main .product .product-section .product-card h3 {
   font-size: 2rem;
